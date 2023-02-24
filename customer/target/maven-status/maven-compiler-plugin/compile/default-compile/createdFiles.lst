@@ -1,0 +1,8 @@
+com\avdev\customer\CustomerApplication.class
+com\avdev\customer\Customer$CustomerBuilder.class
+com\avdev\customer\CustomerService.class
+com\avdev\customer\CustomerController.class
+com\avdev\customer\CustomerRepository.class
+com\avdev\customer\CustomerConfig.class
+com\avdev\customer\CustomerRegistrationRequest.class
+com\avdev\customer\Customer.class

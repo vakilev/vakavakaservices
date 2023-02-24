@@ -1,0 +1,6 @@
+com\avdev\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\avdev\fraud\FraudController.class
+com\avdev\fraud\FraudCheckHistory.class
+com\avdev\fraud\FraudApplication.class
+com\avdev\fraud\FraudCheckHistoryRepository.class
+com\avdev\fraud\FraudCheckService.class

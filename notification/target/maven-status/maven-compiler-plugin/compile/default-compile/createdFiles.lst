@@ -1,0 +1,8 @@
+com\avdev\notification\rabbitmq\NotificationConsumer.class
+com\avdev\notification\NotificationConfig.class
+com\avdev\notification\NotificationApplication.class
+com\avdev\notification\NotificationRepository.class
+com\avdev\notification\NotificationController.class
+com\avdev\notification\Notification.class
+com\avdev\notification\Notification$NotificationBuilder.class
+com\avdev\notification\NotificationService.class

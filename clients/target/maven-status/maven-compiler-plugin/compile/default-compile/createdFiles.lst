@@ -1,0 +1,4 @@
+com\avdev\clients\fraud\FraudClient.class
+com\avdev\clients\fraud\FraudCheckResponse.class
+com\avdev\clients\notification\NotificationClient.class
+com\avdev\clients\notification\NotificationRequest.class
